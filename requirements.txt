@@ -1,1 +1,2 @@
 python-telegram-bot>=20.0
+yt-dlp>=2024.12.0
