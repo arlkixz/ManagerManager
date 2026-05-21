@@ -1,2 +1,8 @@
-python-telegram-bot>=20.0
-yt-dlp>=2024.12.0
+[phases.setup]
+nixPkgs = ["python311", "ffmpeg", "yt-dlp"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
+
+[start]
+cmd = "python main.py"
