@@ -1,5 +1,5 @@
 {
-  "deploy": {
-    "startCommand": "python teleview.py --help"
-  }
+    "deploy": {
+        "startCommand": "python teleview.py --help"
+    }
 }
