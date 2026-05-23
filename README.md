@@ -68,3 +68,4 @@ teleview.py -t http -m rotate -p user:password@ip:port -c teleview -pt 4
 For issues or feedback, feel free to open an issue. 🛠️
 
 ---
+
