@@ -1,0 +1,5 @@
+telethon==1.36.0
+aiogram==2.25.2
+google-generativeai==0.7.2
+python-dotenv==1.0.1
+pyyaml==6.0.1
