@@ -1,5 +1,0 @@
-aiogram==2.25.1
-google-generativeai
-asyncio
-telethon==1.36.0
-python-dotenv
